@@ -7,6 +7,7 @@ The definitive diagnosis of acute lymphoblastic leukemia (ALL), as a highly prev
 </h1>
 
 Public dataset: [Acute Lymphoblastic Leukemia (ALL) image dataset](https://www.kaggle.com/mehradaria/leukemia)
+
 Research article: [A fast and efficient CNN model for B-ALL diagnosis and its subtypes classification using peripheral blood smear images](https://doi.org/10.1002/int.22753)
 
 ### Citation:
