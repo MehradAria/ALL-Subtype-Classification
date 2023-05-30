@@ -16,22 +16,26 @@ You may use [Classifier.ipynb](https://github.com/MehradAria/ALL-Subtype-Classif
 classes = Classifier.predict([Test_org,Test_seg])
 ```
 
+---
 ### Data / pre-trained model availability:
-> Dataset is accessable via Kaggle: [Acute Lymphoblastic Leukemia (ALL) image dataset](https://www.kaggle.com/mehradaria/leukemia)
+- Dataset is accessable via Kaggle: [Acute Lymphoblastic Leukemia (ALL) image dataset](https://www.kaggle.com/mehradaria/leukemia)
 ```
 Aria, M., et al. "Acute lymphoblastic leukemia (all) image dataset." Kaggle, (2021).
 doi: https://doi.org/10.34740/KAGGLE/DSV/2175623.
 ```
 
-> Model is not publicly available at this moment due to Git LFS limitations.
+- Model is not publicly available at this moment due to Git LFS limitations.
 
-
+---
 ### Condition and terms to use any sources of this project (Codes, Datasets, etc.):
 
 1) Please cite the following paper:
-
-> Ghaderzadeh, M, Aria, M, Hosseini, A, Asadi, F, Bashash, D, Abolghasemi, H. A fast and efficient CNN model for B-ALL diagnosis and its subtypes classification using peripheral blood smear images. Int J Intell Syst. 2022; 37: 5113- 5133. doi:10.1002/int.22753
+```
+Ghaderzadeh, M, Aria, M, Hosseini, A, Asadi, F, Bashash, D, Abolghasemi, H.
+A fast and efficient CNN model for B-ALL diagnosis and its subtypes classification using peripheral blood smear images.
+Int J Intell Syst. 2022; 37: 5113- 5133. doi:10.1002/int.22753
+```
 
 2) Please do not distribute the database or source codes to others without the authorization from authors.
+Authors’ Emails: `mehrad.aria[at]shirazu.ac.ir` (M. Aria).
 
-> Authors’ Emails: mehrad.aria[at]shirazu.ac.ir (M. Aria).
