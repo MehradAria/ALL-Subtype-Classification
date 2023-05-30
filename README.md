@@ -9,12 +9,13 @@ The definitive diagnosis of acute lymphoblastic leukemia (ALL), as a highly prev
 </h1>
 
 ## Inference
-You may use [Classifier](https://github.com/MehradAria/ALL-Subtype-Classification/blob/main/Classifier.ipynb), inference is as simple as:
+You may use [Classifier.ipynb](https://github.com/MehradAria/ALL-Subtype-Classification/blob/main/Classifier.ipynb), inference is as simple as:
 
 ```shell
 # Example
 classes = Classifier.predict([Test_org,Test_seg])
 ```
+
 ### Data / pre-trained model availability:
 > Dataset is accessable via Kaggle: [Acute Lymphoblastic Leukemia (ALL) image dataset](https://www.kaggle.com/mehradaria/leukemia)
 ```
